@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1735743783,
+	"version": 1735820879,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -64,6 +64,10 @@
 		"images/buttoninfo-sheet0.png",
 		"images/buttonrestart-sheet0.png",
 		"images/sfesfsefsefse-sheet0.png",
+		"images/papanscore-sheet0.png",
+		"images/papaninfo-sheet0.png",
+		"images/buttonexit-sheet0.png",
+		"images/papanscore2-sheet0.png",
 		"media/portal irl.m4a",
 		"media/portal irl.ogg",
 		"media/pop-39222.m4a",
